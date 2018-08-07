@@ -125,3 +125,42 @@ body, html {
     margin-top: 5px;
     margin-left: 25px;
 }
+
+.ads-container {
+    display: flex;
+    flex-direction: row;
+    margin-top: 15px;
+}
+
+.second-ads {
+    flex-direction: row;
+    display: flex;
+}
+
+.title-list-categories {
+    margin-left: 200px;
+}
+
+.img-ads {
+    width: 40px;
+    height: 30px;
+}
+
+.title-ads {
+    font-size: 12px;
+    color: #FFF;
+}
+
+.ads-item {
+    margin-left: 30px;
+}
+
+.second-ads {
+    margin-left: 30px;
+}
+
+.title-ads {
+    position: relative;
+    top: -10px;
+    letter-spacing: .6px;
+}
